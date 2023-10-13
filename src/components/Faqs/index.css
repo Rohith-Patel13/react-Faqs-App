@@ -1,0 +1,33 @@
+/* Write your code here. */
+* {
+  font-family: Roboto;
+  box-sizing: border-box;
+}
+
+.bg {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  border: 1px solid transparent;
+  padding: 1rem;
+}
+
+.innerBg {
+  background-color: #ffffff;
+  min-height: 100vh;
+  border-radius: 1rem;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading {
+  color: #cb8805;
+  text-align: center;
+}
+
+.ulContainer {
+  padding-left: 0px;
+  margin-left: 0px;
+  list-style: none;
+}

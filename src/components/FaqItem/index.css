@@ -1,0 +1,28 @@
+.liContainer {
+  border: 1px solid #d7dae6;
+  border-radius: 0.8rem;
+  padding: 1rem;
+
+  margin-bottom: 1rem;
+}
+
+.questionContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.questionPara {
+  color: #52606d;
+  font-weight: bold;
+}
+
+.btnPlusOrMinus {
+  background-color: transparent;
+  border: 0px solid transparent;
+  cursor: pointer;
+}
+
+.answerText {
+  color: #9aa5b1;
+}
